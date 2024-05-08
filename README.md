@@ -27,7 +27,7 @@ python file_name.py
 Replace "file_name.py" with the name of the file containing the source code.
 
 ### Calculator image
-![calculator_img](https://github.com/gabrielasodias/calculator/assets/148500521/61b19c99-1d24-4a19-a08c-95e7cc7efbaa)
+<img src="/calculator_img.png/">
 
 ## 📦 Technologies used
 
